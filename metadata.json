@@ -1,0 +1,5 @@
+{
+  "name": "CertiFind",
+  "description": "A full-stack web application for downloading certificates from a single master PDF.",
+  "requestFramePermissions": []
+}
